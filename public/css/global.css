@@ -1,0 +1,14 @@
+body {
+    max-height: 100%;
+}
+.sidebar-scroll {
+    overflow-y: scroll;
+    height: 350px;
+    max-height: 350px;
+}
+
+.body-scroll {
+    overflow-y: scroll;
+    height: 450px;
+    max-height: 450px;
+}
